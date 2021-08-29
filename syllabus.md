@@ -108,6 +108,16 @@ Final Exam: Monday, December 13, 12pm - 1:50pm
   such as the Google Drive app.
   I reserve the right to specify alternate submission cutoffs per assignment.
 * No late assignments will be accepted.
+  However, to account for cases where a student sleeps through a deadline,
+  forgets their laptop at work and cannot make the submission deadline, etc.,
+  assignments may be turned in up to 12 hours after the deadline for up to 50%
+  credit.
+  This is intentionally a steep penalty --
+  a student would almost certainly be better off turning in whatever work was
+  completed before the deadline rather than taking the additional hours as time
+  to work.
+  Please be sure to plan ahead,
+  and do not wait until the last minute to submit and risk a large penalty.
   In cases of extreme emergency, such as an accident or illness resulting in
   hospitalization, please contact me and I will be reasonable.
 * Assignments are to be completed individually unless directed otherwise.
