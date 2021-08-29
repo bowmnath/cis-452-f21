@@ -13,7 +13,7 @@ Instructor: Nathan Bowman
 Email: nathaniel.bowman@gvsu.edu
 
 Office Hours:
-* Mondays, Fridays 10 - 11 AM (in person)
+* Mondays, Fridays 10 - 11 AM (D-2-212 MAK)
 * Wednesdays 3 PM - 4 PM (online)
 
 Zoom link for Wednesday office hours:
