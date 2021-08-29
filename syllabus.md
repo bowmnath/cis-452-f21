@@ -32,10 +32,10 @@ I am also happy to schedule additional meetings outside of office hours.
 ## Course Meetings
 
 The course meets three times per week for lecture:
-* 8 - 9:50 AM Thursdays (MAK-A-1167)
+* 1 - 1:50 PM Monday, Wednesday, Friday (MAK-B-1118)
 
 There is a lab once per week:
-* 1 - 1:50 PM Monday, Wednesday, Friday (MAK-B-1118)
+* 8 - 9:50 AM Thursdays (MAK-A-1167)
 
 ## Sickness Policies
 
