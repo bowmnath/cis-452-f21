@@ -13,12 +13,11 @@ Instructor: Nathan Bowman
 Email: nathaniel.bowman@gvsu.edu
 
 Office Hours:
-* Tuesdays 1 - 2 PM
-* Thursdays 11 AM - 12 PM
-* Fridays 10 - 11 AM
+* Mondays, Fridays 10 - 11 AM (in person)
+* Wednesdays 3 PM - 4 PM (online)
 
-Zoom link for office hours:
-[]()
+Zoom link for Wednesday office hours:
+[https://gvsu-edu.zoom.us/j/98637553783?pwd=RzJsazNrcDhFemFRTCtvN2xiblFnUT09](https://gvsu-edu.zoom.us/j/98637553783?pwd=RzJsazNrcDhFemFRTCtvN2xiblFnUT09)
 
 The best way to contact me about the course is through
 [Piazza](http://www.piazza.com/gvsu/fall2021/cis452/home).
@@ -72,9 +71,9 @@ Silberschatz, Galvin, Gagne; Wiley, 2014
 
 ## Grading Policy
 
-| Homework/Exercises | Labs/Projects | Midterm | Final|
-| ---                | ---           | ---     | ---  |
-| 10%                | 40%           | 25%     | 25%  |
+| Homework/Exercises | Labs | Projects | Midterm | Final|
+| ---                | ---  | ---      | ---     | ---  |
+| 10%                | 20%  | 20%      | 25%     | 25%  |
 
 | Letter grade | Min. Percent |
 | ---          | ---          |
@@ -94,7 +93,7 @@ Silberschatz, Galvin, Gagne; Wiley, 2014
 
 Deadline to drop with a "W" grade: October 29, 2021.
 
-Midterm Exam: TBD
+Midterm Exam: Thursday, October 28, 8am - 9:50am (in lab)
 
 Final Exam: Monday, December 13, 12pm - 1:50pm
 
