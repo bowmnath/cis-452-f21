@@ -21,6 +21,11 @@ announcements
 * [Prairielearn](https://prairielearn.engr.illinois.edu/pl/) is where you will
 submit all of your assignments, labs, and projects.
 
+That seems like a lot to monitor,
+but don't worry -- you really need only actively follow Piazza.
+I will release announcements there any time assignments are posted,
+and I will post links to them directly on this page.
+
 Be sure to read through the [syllabus](syllabus.md) for course policies,
 contact information, and other important info.
 
@@ -39,7 +44,7 @@ of the concepts.
 
 | Week | Topics | Readings and Activities | Deliverables |
 | ---- | ------ | ----------------------- | ------------ |
-|  1   | Introduction <br>([slides](slides/what-is-os.pdf)) <br> Multiprogramming motivation <br>([slides](slides/multiprogramming-basic.pdf)) <br> Interrups <br>([slides](slides/interrupts.pdf)) <br> System calls <br>([slides](slides/system-calls.pdf))  | Chapter 1<br> Chapter 2 | **Friday 9/3** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
+|  1   | Introduction <br>([slides](slides/what-is-os.pdf)) <br> Multiprogramming motivation <br>([slides](slides/multiprogramming-basic.pdf)) <br> Interrups <br>([slides](slides/interrupts.pdf)) <br> System calls <br>([slides](slides/system-calls.pdf))  | Chapter 1<br> Chapter 2 | **Friday 9/3** [Syllabus quiz](https://www.prairielearn.org/pl/course_instance/128860/assessment/2313420) |
 |  2   | Process concepts <br>([slides](slides/process-intro.pdf)) <br> Process scheduling <br>([slides](slides/process-scheduling.pdf)) <br> Process lifecycle <br>([slides](slides/process-lifecycle.pdf))  | 3.1 - 3.3 | **Wednesday 9/8** Lab 1 due<br> |
 |  3   | Interprocess communication<br> ([IPC slides](slides/process-ipc.pdf))  <br>([POSIX shared mem slides](slides/process-shm-posix.pdf))  <br>([Message passing slides](slides/process-message.pdf))  <br>([Pipes slides](slides/process-pipes.pdf))  <br> Threads <br>([Thread overview slides](slides/thread-overview.pdf))  <br>([Thread models slides](slides/thread-models.pdf))  <br>([Thread issues slides](slides/thread-issues.pdf))  | Chapter 3<br> Chapter 4 | **Monday 9/13** HW Chapters 1 & 2 due <br>**Tuesday 9/14** Project 1 due<br>**Wednesday 9/15** Lab 2 due |
 |  4   | Process synchronization <br>([slides](slides/parallel-intro.pdf)) <br> Syncrhonization algorithms <br>([slides](slides/parallel-critical-section.pdf)) <br> File descriptors <br> ([slides](slides/file-descriptors.pdf))  | 5.1 - 5.3 | **Wednesday 9/22** Lab 3 due |
