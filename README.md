@@ -38,6 +38,9 @@ because the coverage will change slightly from semester to semester
 and because we will be doing activities in class to reinforce understanding
 of the concepts.
 
+Please fill out our daily contract tracing info in the
+[seating chart](https://docs.google.com/spreadsheets/d/13InPKT1OKiqfgHSZ_AjM3eMm4krADRd7-jNlgO47Dpg/edit?usp=sharing).
+
 ## Schedule
 
 ** Note: This is an estimated timeline and subject to change. **
