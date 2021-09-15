@@ -18,30 +18,30 @@ Note: some questions are taken entirely or in part from your textbook.
 
 # General Questions
 
-Is it possible for two processes to communicate without OS intervention?
-If so, how?
-If not, why not?
+1. Is it possible for two processes to communicate without OS intervention?
+   If so, how?
+   If not, why not?
 
-Name a few reasons a process might benefit from spawning another process to
-perform some work even if the system has just one processor.
+2. Name a few reasons a process might benefit from spawning another process to
+   perform some work even if the system has just one processor.
 
-Which method of IPC generally requires more system calls:
-message passing or shared memory?
-Why?
+3. Which method of IPC generally requires more system calls:
+   message passing or shared memory?
+   Why?
 
-Using POSIX shared memory,
-can more than two processes communicate at once?
-Why or why not?
+4. Using POSIX shared memory,
+   can more than two processes communicate at once?
+   Why or why not?
 
-The ideas of buffering and synchronous vs. asynchronous communication are
-intertwined.
-Explain how/why.
+5. The ideas of buffering and synchronous vs. asynchronous communication are
+   intertwined.
+   Explain how/why.
 
-Why is an asynchronous send, if available,
-often preferable to a synchronous send?
+6. Why is an asynchronous send, if available,
+   often preferable to a synchronous send?
 
-Can you think of a situation in which synchronous communication would be
-preferred even if asynchronous communication were possible?
+7. Can you think of a situation in which synchronous communication would be
+   preferred even if asynchronous communication were possible?
 
 Take a look at the following (edited) snippet from your textbook
 (also shown in the lecture video):
@@ -62,14 +62,14 @@ Take a look at the following (edited) snippet from your textbook
 	sprintf(ptr,"%s",message2);
 	ptr += strlen(message2);
 ```
-How could you write this without using the call to `mmap`?
-You can explain in generic terms,
-or try to actually modify the code.
+8. How could you write this without using the call to `mmap`?
+   You can explain in generic terms,
+   or try to actually modify the code.
 
-Why does an ordinary pipe require a parent-child relationship to function,
-whereas a named pipe does not?
+9. Why does an ordinary pipe require a parent-child relationship to function,
+   whereas a named pipe does not?
 
-What is the output of the following code?
+10. What is the output of the following code?
 ```
 #include <stdio.h>
 #include <unistd.h>
@@ -118,22 +118,22 @@ int main()
 ```
 You can assume that `message.txt` contains the message `hello world`.
 
-Does the output change if `BLOCK A` is moved to immediately after the fork?
+11. Does the output change if `BLOCK A` is moved to immediately after the fork?
 
-Assume the code above is back to its original form.
-What happens if the following code is inserted as `BLOCK B`?
-```
-    if (pid > 0) {
-        fclose(infile);
-        if ((infile = fopen("mensaje.txt", "r")) == NULL) {
-            perror("could not open");
-            exit(1);
+12. Assume the code above is back to its original form.
+    What happens if the following code is inserted as `BLOCK B`?
+    ```
+        if (pid > 0) {
+            fclose(infile);
+            if ((infile = fopen("mensaje.txt", "r")) == NULL) {
+                perror("could not open");
+                exit(1);
+            }
         }
-    }
-```
-Assume the file `mensaje.txt` contains the message `hola mundo`.
-What is the output?
-Does it depend on whether the parent or child runs first?
+    ```
+    Assume the file `mensaje.txt` contains the message `hola mundo`.
+    What is the output?
+    Does it depend on whether the parent or child runs first?
 
 ## Exploring
 
