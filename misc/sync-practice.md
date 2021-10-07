@@ -117,3 +117,8 @@ You may assume that every person already has a pro waiting on the court to hit
 with them.
 So, as soon as they have there materials,
 their game can begin.
+
+Note: avoiding deadlock is an important goal in any solution.
+However, for this problem,
+it may be more interesting to consider ways that you can "acheive" deadlock
+than ways that you can avoid it.
