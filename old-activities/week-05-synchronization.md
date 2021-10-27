@@ -131,8 +131,15 @@ program more efficient?
 of mutual exclusion, progress, and bounded waiting in lecture.
 Briefly explain what each of these means and why it is important.
 
-8. Assume the variable `access` protects a critical section.
-Would the following C function be effective for synchronization?
+8. Assume the shared integer pointer `access` and the function `access_by_id`
+protect a critical section as in the following code snippet:
+```
+while (!access_by_id(my_tid, access)) ; // busy wait
+// do stuff
+*access = -1;
+```
+Would implementing `access_by_id` as the following C function be effective for
+synchronization?
 Why or why not?
 ```
 int access_by_id(int tid, int *access) {
