@@ -101,13 +101,14 @@ beneficial.
 9. Recall the multileve feedback queue from lecture (reproduced below).
 Note that, for this particular setup,
 there are no arrows from lower-priority to higher-priority queues.
-Given the following sets of burst times,
-in which queue would each process end up?
+Given the following burst times,
+describe how each process is scheduled
+(i.e., which queue(s) it goes through).
 
-* A: 9, 17, 2
-* B: 17, 9, 2
-* C: 3, 3, 4
-* D: 30, 8, 7
+* A: 9
+* B: 17
+* C: 3
+* D: 30
 
 ![Feedback queue](images/multilevel-feedback.png)
 
