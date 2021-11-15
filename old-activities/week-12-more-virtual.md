@@ -54,8 +54,7 @@ You cannot just count accesses.
 
 Consider approximating LRU using the second-chance algorithm.
 Use the following table for the next few questions.
-Also, this is not explicitly stated in the slides,
-but you may assume that the reference bit is set when a page is read in.
+Also, assume that the reference bit is not set when a page is read in.
 
 ```
 Queue:          4   0   1   5   2   3
