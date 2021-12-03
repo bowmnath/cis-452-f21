@@ -62,7 +62,7 @@ Please fill out our daily contract tracing info in the
 |      | Virtual Memory Misc.<br> ([slides](slides/virtual-misc.pdf))<br>Thanksgiving break 11/25 - 11/29 | | |
 |  14  | File system concepts<br>([files slides](slides/storage-files.pdf))<br>([directories slides](slides/storage-directories.pdf))<br>([links slides](slides/storage-links.pdf))<br>([directory implementation slides](slides/storage-implement-directories.pdf))<br>File system allocation<br>([contiguous allocation slides](slides/storage-allocation-contiguous.pdf))<br>([linked allocation slides](slides/storage-allocation-linked.pdf))<br>([indexed allocation slides](slides/storage-allocation-index.pdf)) | Chapter 10<br>Chapter 11<br>Chapter 9 |**Wednesday 12/01** [Lab 10](https://www.prairielearn.org/pl/course_instance/128860/assessment/2314953) due |
 |  15  | Hard Disks<br>([hard disks slides](slides/storage-disk.pdf))<br>([disk scheduling slides](slides/storage-scheduling.pdf))<br>Protection and security<br>([protection slides](slides/security-protection.pdf))<br>([security slides](slides/security-security.pdf)) | Chapter 13<br>Chapter 14 | **Wednesday 12/08** [Lab 11](https://www.prairielearn.org/pl/course_instance/128860/assessment/2315056) due |
-|  16  | **Final Exam** **Monday, December 13, 12pm - 1:50pm** | | **Sunday, 12/12** Project 4 due |
+|  16  | **Final Exam** **Monday, December 13, 12pm - 1:50pm** | | **Sunday, 12/12** [Project 4](https://www.prairielearn.org/pl/course_instance/128860/assessment/2315057) due |
 
 ## Other helpful links
 
